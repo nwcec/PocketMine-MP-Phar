@@ -1,6 +1,8 @@
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/npo1.png" group-title="NL| NEDERLAND",|NL| NPO 1 HD
-http://localhost.dummy.proof:80/123456/654321/0123
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/npo2.png" group-title="NL| NEDERLAND",|NL| NPO 2 HD
-http://localhost.dummy.proof:80/654321/123456/3210
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/npo3.png" group-title="NL| NEDERLAND",|NL| NPO 3 HD
-http://localhost.dummy.proof:80/416352/524163/0231
+#EXTINF:-1 tvg-logo="https://example.com/logo1.png" group-title="Movies",Movie 1
+http://example.com/movie1.m3u8
+
+#EXTINF:-1 tvg-logo="https://example.com/logo2.png" group-title="News",News Channel
+http://example.com/news.m3u8
+
+#EXTINF:-1 tvg-logo="https://example.com/logo3.png" group-title="Sports",Sports Channel
+http://example.com/sports.m3u8
