@@ -1,1 +1,7 @@
-status="on" description="تحديث جديد متاح للتطبيق! يحتوي هذا التحديث على تحسينات جديدة وإصلاحات للأخطاء." link="https://play.google.com/store/apps/details?id=com.adobe.lrmobile"
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/npo1.png" group-title="NL| NEDERLAND",|NL| NPO 1 HD
+http://localhost.dummy.proof:80/123456/654321/0123
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/npo2.png" group-title="NL| NEDERLAND",|NL| NPO 2 HD
+http://localhost.dummy.proof:80/654321/123456/3210
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/npo3.png" group-title="NL| NEDERLAND",|NL| NPO 3 HD
+http://localhost.dummy.proof:80/416352/524163/0231
